@@ -1,8 +1,8 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import ExpertList from './pages/ExpertList'
-import ExpertDetail from './pages/ExpertDetail'
-import BookingForm from './pages/BookingForm'
-import MyBookings from './pages/MyBookings'
+import ExpertList from './pages/Expertlist'
+import ExpertDetail from './pages/Expertdetail'
+import BookingForm from './pages/Bookingform'
+import MyBookings from './pages/Mybookings'
 
 function App() {
   return (
